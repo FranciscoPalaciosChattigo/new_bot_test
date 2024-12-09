@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+requests
+google-cloud-storage
+selenium
+webdriver_manager

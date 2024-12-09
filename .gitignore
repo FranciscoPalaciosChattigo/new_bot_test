@@ -1,0 +1,15 @@
+/venv
+.venv
+.env
+
+# Ignorar archivos de configuración de PyCharm
+.idea/
+
+# Ignorar archivos compilados de Python
+*.pyc
+__pycache__/
+
+token_gcs.json
+src/google_gcs/token_gcs.json
+*.josn
+.DS_Store
